@@ -10,6 +10,9 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
 <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+ Badge" /></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/-AWS%20CCP-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS CCP"></a>
 <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300"><img src="https://img.shields.io/badge/-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-300 Badge"></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20100-6A0DAD?style=for-the-badge&logo=jamf&logoColor=white&logoWidth=20" alt="Jamf 100"></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf 170"></a>
+
 </div><br>
 
 ## Experience
@@ -102,8 +105,9 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
 
   
 
-
-
+---
+# IN PROGRESS BELOW
+---
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
