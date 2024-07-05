@@ -10,9 +10,24 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
 <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+ Badge" /></a>
 <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/-AWS%20CCP-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS CCP"></a>
 <a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300"><img src="https://img.shields.io/badge/-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-300 Badge"></a>
-
-
 </div>
+
+## Experience
+  ### Avondale University<br>
+  <b>Systems & Security Administrator</b><br>
+  <i>May 2022 - Present</i>
+  <ul>
+    <li>Implementing & Maintaining ACSC Essential Eight Compliance</li>
+    <li>Engineering Security Orchestration Automation & Response (SOAR+SIEM) Solutions for Endpoints, Servers & Network</li>
+    <li>Network Architecting & Engineering across all network layers</li>
+    <li>Deploy, Configure & Maintaining Windows and Linux Servers</li>
+    <li>Respond to Systems Outages & Incidents</li>
+    <li>Maintaining Server, Endpoint & Network devices software and firmware</li>
+    <li>Investigation & Reporting on Security Breaches and Information Security Incidents</li>
+    <li>Perform compliance testing & security reviews</li>
+  </ul>
+
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -48,6 +63,12 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
+
+## Projects & Initiatives I Support:
+* The Tor Project
+* Electronic Frontier Foundation
+* Monero Project
+* Signal Foundation
 
 
 
