@@ -108,7 +108,7 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
   ### UNSW<br>
   <b> Graduate Certificate of Cybersecurity</b><br>
   <i> October 2024 - June 2025</i><br>
-
+ <br>
 ## Skills
 <ul>
   <li>Cybersecurity Incident Response</li>
@@ -119,10 +119,10 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
 </ul><br>
 
 ## Projects & Initiatives I Support:
-* The Tor Project
-* Electronic Frontier Foundation
-* Monero Project
-* Signal Foundation
+* [The Tor Project](https://www.torproject.org/)
+* [Electronic Frontier Foundation](https://www.eff.org/)
+* [Monero Project](https://www.getmonero.org/)
+* [Signal Foundation](https://signal.org/)
 
 ---
 
