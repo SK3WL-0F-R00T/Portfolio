@@ -104,6 +104,11 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
     <li>Conduct Data Recovery</li>
   </ul><br>
 
+## Education
+  ### UNSW<br>
+  <b> Graduate Certificate of Cybersecurity</b><br>
+  <i> October 2024 - June 2025</i><br>
+
 ## Skills
 <ul>
   <li>Cybersecurity Incident Response</li>
