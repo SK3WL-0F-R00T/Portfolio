@@ -118,24 +118,66 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
 * Monero Project
 * Signal Foundation
 
-
-
-
-
-
----
-# IN PROGRESS BELOW
 ---
 
+## 🚧 Projects
 
+### 🐛 Malware Analysis
 
+1. **[Windows Malware Analysis: Trojan Sample](link-to-project)**
+   - **Tools**: IDA Pro, Ghidra, x64dbg, VirusTotal
+   - **Description**: A detailed analysis of a Windows-based trojan. Disassembled the malware to understand its structure and behavior, extracted IOCs, and conducted dynamic analysis to observe network communication patterns.
 
-| Outcome                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+2. **[Ransomware Reverse Engineering](link-to-project)**
+   - **Tools**: Remnux, OllyDbg, Process Monitor
+   - **Description**: Reverse engineered a ransomware variant to determine encryption methods and recovery options. Developed a Python-based decryption tool for the specific ransomware family.
 
+3. **[Behavioral Analysis of Malware in a Sandbox](link-to-project)**
+   - **Tools**: Cuckoo Sandbox, YARA, Wireshark
+   - **Description**: Deployed malware samples in a sandbox environment, identified malicious payloads, and used YARA rules to detect specific signatures across the network.
+
+### 🖥️ SIEM & SOAR Implementations
+
+1. **[Building a SIEM with Splunk](link-to-project)**
+   - **Tools**: Splunk, AWS, Suricata
+   - **Description**: Designed and deployed a SIEM using Splunk, with AWS as the infrastructure. Created custom dashboards for network intrusion detection using Suricata logs and automated alerts for suspicious activity.
+
+2. **[SOAR Playbook: Automated Incident Response](link-to-project)**
+   - **Tools**: Splunk Phantom, Python
+   - **Description**: Developed and implemented a playbook using Splunk Phantom to automate incident response for phishing attacks. Integrated with external APIs to verify email sender domains and auto-block malicious IPs.
+
+3. **[SIEM Correlation Rules for Threat Detection](link-to-project)**
+   - **Tools**: ELK Stack, OSSEC, Kibana
+   - **Description**: Created correlation rules in the ELK stack to detect and respond to brute force attempts, anomalous network traffic, and privilege escalation events. Visualized data in Kibana and automated alerts.
+
+### 🕵️‍♂️ Threat Hunting
+
+1. **[Network Threat Hunting with Zeek](link-to-project)**
+   - **Tools**: Zeek, Wireshark, Python
+   - **Description**: Deployed Zeek on a network to capture traffic, then analyzed logs to hunt for indicators of compromise (IoCs) and lateral movement within the network.
+
+2. **[Hunting for Advanced Persistent Threats (APT)](link-to-project)**
+   - **Tools**: MISP, OpenIOC, MITRE ATT&CK Framework
+   - **Description**: Used threat intelligence and IoCs from MISP to detect APT activity in a simulated environment. Mapped attacks to MITRE ATT&CK techniques and created a report with actionable recommendations.
+
+### 🔐 Vulnerability Management
+
+1. **[Vulnerability Scanning & Remediation](link-to-project)**
+   - **Tools**: OpenVAS, Nessus, Nmap
+   - **Description**: Conducted vulnerability assessments across an enterprise network. Documented and prioritized vulnerabilities, recommended remediations, and tracked patch management efforts.
+
+2. **[Web Application Vulnerability Assessment](link-to-project)**
+   - **Tools**: Burp Suite, OWASP ZAP
+   - **Description**: Performed a security audit on a web application to identify common vulnerabilities like SQL injection, XSS, and CSRF. Provided a detailed report of the findings and remediation steps.
+
+### 🔒 Penetration Testing
+
+1. **[Internal Network Penetration Test](link-to-project)**
+   - **Tools**: Metasploit, Hydra, BloodHound
+   - **Description**: Conducted a penetration test on an internal network, including reconnaissance, exploitation, and privilege escalation. Used BloodHound to map out Active Directory misconfigurations.
+
+2. **[Capture the Flag (CTF) Challenges](link-to-project)**
+   - **Tools**: Kali Linux, nmap, John the Ripper, Wireshark
+   - **Description**: Participated in several CTFs focusing on network exploitation, web application attacks, and password cracking. Highlights include capturing flags through SQL injection and command injection vulnerabilities.
+
+---
