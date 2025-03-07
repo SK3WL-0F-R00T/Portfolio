@@ -14,10 +14,26 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
 <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20100-6A0DAD?style=for-the-badge&logo=jamf&logoColor=white&logoWidth=20" alt="Jamf 100"></a>
 <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf 170"></a>
 
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Management Engineer"></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Management Consultant"></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Security Consultant"></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Ambassador"></a>
+
+
 </div><br>
 
 ## Experience
   ### Avondale University<br>
+  <b>Interim IT Operations Manager</b><br>
+  <i>December 2024 - February 2025</i>
+  <ul>
+    <li>Provided strategic IT leadership by aligning technology initiatives with executive priorities and business objectives.</li>
+    <li>Negotiated vendor contracts & service agreements</li>
+    <li>Advised executive leadership on cybersecurity risks & incident response strategies, improving organisational resilience.</li>
+    <li>Oversaw IT operations, infrastructure, and support teams</li>
+    <li>Facilitated IT policy development & enforcement to strengthen security, compliance, and IT service delivery.</li>
+    <li>Represented IT in executive meetings & board discussions, translating technical insights into actionable business strategies.</li>
+  </ul>
   <b>Systems & Security Administrator</b><br>
   <i>May 2022 - Present</i>
   <ul>
@@ -43,7 +59,7 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
     <li>Onsite & Remote IT Assistance</li>
   </ul>
   
-  ### Southern Cross Cyber<br>
+  ### SOUTHERN CROSS CYBER<br>
   <b>Security Engineer</b><br>
   <i>May 2021 - Present</i><br>
   <ul>
@@ -108,6 +124,18 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
   ### UNSW<br>
   <b> Graduate Certificate of Cybersecurity</b><br>
   <i> October 2024 - June 2025</i><br>
+ <br>
+ ### Stanford University<br>
+  <b> Professional Certificate, Machine Learning Specialisation</b><br>
+  <i> July 2024 - November 2024</i><br>
+ <br>
+  ### Harvard Online<br>
+  <b> Professional Certificate, Leadership & Communication</b><br>
+  <i> September 2024 - December 2024</i><br>
+ <br>
+   ### The Australian National University<br>
+  <b> Professional Certificate, Astronomy and Astrophysics</b><br>
+  <i> November 2024 - January 2025</i><br>
  <br>
 ## Skills
 <ul>
