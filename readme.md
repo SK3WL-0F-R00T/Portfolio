@@ -14,10 +14,10 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
 <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20100-6A0DAD?style=for-the-badge&logo=jamf&logoColor=white&logoWidth=20" alt="Jamf 100"></a>
 <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf 170"></a>
 
-<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Management Engineer"></a>
-<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Management Consultant"></a>
-<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Security Consultant"></a>
-<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Ambassador"></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20Management%20Engineer-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Management Engineer"></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20Management%20Consultant-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Management Consultant"></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20Security%20Consultant-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Security Consultant"></a>
+<a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20Ambassador-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Ambassador"></a>
 
 
 </div><br>
