@@ -8,8 +8,8 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
 <a href="https://www.comptia.org/certifications/cybersecurity-analyst"><img src="https://img.shields.io/badge/-CySA%2B-0052cc?style=for-the-badge&logo=comptia&logoColor=white" alt="CySA+"></a>
 <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Badge" /></a>
 <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Network+ Badge" /></a>
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/-AWS%20CCP-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS CCP"></a>
-<a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300"><img src="https://img.shields.io/badge/-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-300 Badge"></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/-AWS%20CCP-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS CCP"></a>
+<a href="https://learn.microsoft.com/en-us/certifications/exams/sc-300"><img src="https://img.shields.io/badge/-Microsoft%20SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SC-300 Badge"></a>
 <a href="https://training.fortinet.com/local/staticpage/view.php?page=certification-path"><img src="https://img.shields.io/badge/-Fortinet%20FCA-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white" alt="Fortinet FCA Badge" /></a>
 <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20100-6A0DAD?style=for-the-badge&logo=jamf&logoColor=white&logoWidth=20" alt="Jamf 100"></a>
 <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20170-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf 170"></a>
@@ -18,6 +18,8 @@ My name is <b>Levi Green</b> and I am a dedicated and seasoned <b>Security Engin
 <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20Management%20Consultant-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Management Consultant"></a>
 <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20Security%20Consultant-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Security Consultant"></a>
 <a href="https://www.jamf.com/"><img src="https://img.shields.io/badge/-Jamf%20Ambassador-007ACC?style=for-the-badge&logo=jamf&logoColor=white" alt="Jamf Ambassador"></a>
+<img src="https://img.shields.io/badge/Agile%20with%20Atlassian%20Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Agile with Atlassian Jira">
+
 
 
 </div><br>
